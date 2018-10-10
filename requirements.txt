@@ -1,0 +1,11 @@
+appdirs==1.4.3
+html5lib==1.0b8
+olefile==0.44
+packaging==16.8
+Pillow==4.1.1
+pyparsing==2.2.0
+PyPDF2==1.26.0
+reportlab==3.4.0
+six==1.10.0
+webencodings==0.5.1
+xhtml2pdf==0.0.6
